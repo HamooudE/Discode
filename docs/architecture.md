@@ -1,4 +1,4 @@
-# Morse
+# Discode
 
 Real-time web messaging app with Node.js, WebSocket, React, and AI.
 
@@ -12,7 +12,7 @@ The project is designed to be **100% web-based**, **secure**, **scalable**, and 
 ## 📂 Project Overview
 
 ```
-Morse/
+Discode/
 ├── client/                   // Frontend (React + Vite)
 │   ├── src/
 │   │   ├── components/       // Reusable UI components (Messages Friends, Profile...)
