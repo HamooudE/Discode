@@ -79,7 +79,7 @@ Build architecture ready for growth
 </details>
 
 <details>
-<summary><strong>🤖 AI-Powered Features</strong></summary>
+<summary><strong>✨ AI-Powered Features</strong></summary>
 <br />
 
 - 🛡️ Automatic content moderation
