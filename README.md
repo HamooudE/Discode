@@ -70,9 +70,8 @@ Build architecture ready for growth
 <br />
 
 - ⚡ Instant message delivery via WebSocket (Socket.IO)
-- 👀 Live presence indicators and typing status
+- ✨ Live presence indicators and typing status
 - 💾 Persistent message history
-- 😊 Emoji reactions and rich text support
 - 🔍 Full-text search across conversations
 
 ![Messaging Demo](./assets/demos/messaging-demo.gif)
@@ -125,7 +124,7 @@ Build architecture ready for growth
 - 🌙 Dark mode by default (light mode available)
 - ✨ Smooth animations and transitions
 - ♿ Accessibility-focused (WCAG 2.1)
-- 🎭 Customizable themes
+- ✨ Customizable themes
 
 ![UI Showcase](./assets/demos/ui-showcase.gif)
 
@@ -447,7 +446,7 @@ While the source code is private, I welcome:
 Suggest new features
 </td>
 <td align="center">
-🐛<br /><strong>Bug Reports</strong><br />
+✨<br /><strong>Bug Reports</strong><br />
 Report issues you find
 </td>
 <td align="center">
@@ -455,7 +454,7 @@ Report issues you find
 Share your experience
 </td>
 <td align="center">
-🤔<br /><strong>Questions</strong><br />
+✨<br /><strong>Questions</strong><br />
 Ask about implementation
 </td>
 </tr>
