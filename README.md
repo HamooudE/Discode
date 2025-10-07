@@ -351,7 +351,7 @@ timeline
 </details>
 
 <details>
-<summary><strong>🔮 Phase 4 - Future (2025+)</strong></summary>
+<summary><strong>📋 Phase 4 - Future (2025+)</strong></summary>
 
 - [ ] Public REST API
 - [ ] Bot framework & webhooks
